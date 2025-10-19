@@ -8,11 +8,11 @@
 		<version>3.3.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.codingshuttle.linkedin</groupId>
+	<groupId>com.client.connectsphere</groupId>
 	<artifactId>user-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>user-service</name>
-	<description>User Service in LinkedIn Project</description>
+	<description>User Service in ConnectSphere Project</description>
 	<url/>
 	<licenses>
 		<license/>
